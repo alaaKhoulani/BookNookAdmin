@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "128501056536",
+    "project_id": "booknooknoti",
+    "storage_bucket": "booknooknoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128501056536:android:1ae04b398a4a9a0e72ef6d",
+        "android_client_info": {
+          "package_name": "com.example.book_nook_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128501056536-u7atm6vtdk6bkhq762ipdi312ekqoipm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_nook_admin",
+            "certificate_hash": "2da27f5f19203f79703900424c5c5d55a1f9a0ee"
+          }
+        },
+        {
+          "client_id": "128501056536-0q4un2p8bt0ub6aqcl5g7n8m9ighugfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfvBpBTFg2Nl86QYLZuTMixeprmlNjMrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128501056536-0q4un2p8bt0ub6aqcl5g7n8m9ighugfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128501056536-bnv79klai1unv121k8j4jhj0jvone7mh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128501056536:android:bd8c4da63d0199f772ef6d",
+        "android_client_info": {
+          "package_name": "com.example.book_nook_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128501056536-v8qdusg9c2u9g4d34hfih6kkvohpg1oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_nook_user",
+            "certificate_hash": "94aa1aaa81b59521b4d4a4432b15cf432bc08450"
+          }
+        },
+        {
+          "client_id": "128501056536-0q4un2p8bt0ub6aqcl5g7n8m9ighugfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfvBpBTFg2Nl86QYLZuTMixeprmlNjMrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128501056536-0q4un2p8bt0ub6aqcl5g7n8m9ighugfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128501056536-bnv79klai1unv121k8j4jhj0jvone7mh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

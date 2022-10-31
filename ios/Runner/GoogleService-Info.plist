@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>128501056536-effo7p6ob7db50778k8m701lbd7qhcma.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.128501056536-effo7p6ob7db50778k8m701lbd7qhcma</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeS-DAAE4gUfQO1rvMJWTP0XZaPOjuZSQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>128501056536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bookNookAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>booknooknoti</string>
+	<key>STORAGE_BUCKET</key>
+	<string>booknooknoti.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:128501056536:ios:7a1eb050c81aabfb72ef6d</string>
+</dict>
+</plist>
