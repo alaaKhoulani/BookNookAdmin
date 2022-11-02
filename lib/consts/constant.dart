@@ -10,3 +10,6 @@ TextStyle p2 = const TextStyle(fontSize: 15 , fontWeight: FontWeight.w300);
 TextStyle p3 = const TextStyle(fontSize: 12, fontWeight: FontWeight.w300);
 TextStyle buttonfont = const TextStyle(fontSize: 16);
 
+
+
+
